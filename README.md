@@ -15,7 +15,7 @@ Inital Project planning
 Task Updating
 ![screenshot](./TaskEditing.jpg)
 
-Document Editing
+Editing Remote Documents
 ![screenshot](./DocEditing.jpg)
 
 Chat and Calendar
