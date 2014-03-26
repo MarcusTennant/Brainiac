@@ -1,7 +1,7 @@
 Brainiac
 ========
 
-Brainiac is a class final project developed by Adam Bondi, Ryan Dewey, Mark Kiddo, and Marcus Tennant
+Brainiac is a class final project developed by Adam Bondi, Ryan Dewey, Mark Kiddo, and Marcus Tennant at Penn State in 2013.
 
 Brainiac is an all in one team brainstorming and productivity suite, developed in java and javaDB and specifically making use of Object Oriented design principals with networking support.
 
