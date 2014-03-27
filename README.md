@@ -10,7 +10,7 @@ Teams can connect to a host via tcp/ip and ftp to make use of a range of network
 Also included in the project is; A web browser to seamlessly search for new ideas. A task calendar integrating Google Calender api's to send team updates and deadlines straight to member's email and smartphones. PDF support. And it comes itegrated with OpenOffice.org to handle any document editing the team may need.
 
 Inital Project planning
-![screenshot](./ProjectPLanning.jpg)
+![screenshot](./ProjectPlanning.jpg)
 
 Task Updating
 ![screenshot](./TaskEditing.jpg)
